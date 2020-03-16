@@ -1,0 +1,15 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+html,body{
+	color:#ffffff;
+	font-family: Trebuchet MS;
+}
+.btn{
+	background-color:#04304B; 
+	color: #ffffff;
+}
+.navbar-brand{
+	color:#04304B;
+}

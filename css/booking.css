@@ -1,0 +1,40 @@
+html,body{
+	background-color: #F9F9F9;
+}
+.card-header{
+	background-color: #04304B!important;
+	color: #ffffff!important;
+	width: 100%;
+}
+
+.card-content{
+	text-transform: uppercase;
+	font-weight: 600px;
+}
+.card-header{
+	text-transform: !important;
+	background-color: #04304B!important;
+	font-weight: 600px!important;
+
+}
+.fa{
+	height:10px!important;
+	width:10px;
+}
+.alert{
+	text-align: left!important;
+}
+.ticket{
+	
+}
+.border-left-primary {
+  border-left: 0.25rem solid #4e73df !important;
+}
+.border-top-primary {
+  border-top: 0.25rem solid #4e73df !important;
+}
+.border-right-primary {
+  border-right: 0.25rem solid #4e73df !important;
+}.border-bottom-primary {
+  border-bottom: 0.25rem solid #4e73df !important;
+}
