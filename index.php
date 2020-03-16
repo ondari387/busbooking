@@ -6,7 +6,7 @@
       <main role="main" class="inner-cover">
         <h3 class="m-5" style="color: #04304B;">Travel with us this Holiday</h3>
         <img src="images/bus1.png" class="container-fluid col-md-4" height="250px"><br>
-          <a href="booking.php" class="btn btn-lg btn-dark m-2">Book our buses</a>
+          <a href="booking.php" class="btn btn-lg btn-dark m-2">Book our classy buses</a>
       </main>
 
       <footer class="mastfoot mt-auto">
